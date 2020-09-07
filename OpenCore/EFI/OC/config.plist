@@ -361,11 +361,11 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>Legacy_USB3.kext</string>
+				<string>LegacySierraQMI.kext</string>
 				<key>Comment</key>
-				<string>XHC ports configuration</string>
+				<string>4G WWAN</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
